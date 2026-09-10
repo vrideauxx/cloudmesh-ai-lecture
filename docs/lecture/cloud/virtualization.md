@@ -201,8 +201,8 @@ The following table summarizes the key differences, advantages, and disadvantage
 | **Stability** | Higher (less software layers) | Lower (depends on Host OS stability) |
 | **Ease of Setup** | Complex (requires dedicated hardware) | Simple (installed like any application) |
 | **Typical Use Case** | Production servers, Enterprise Cloud | Development, Testing, Personal use |
-| **Advantages** | $\bullet$ Maximum performance $\bullet$ Scalability $\bullet$ Robust security | $\bullet$ Easy installation $\bullet$ Better hardware compatibility $\bullet$ Familiar interface |
-| **Disadvantages** | $\bullet$ Steeper learning curve $\bullet$ Restricted hardware support | $\bullet$ Performance overhead $\bullet$ Dependence on Host OS |
+| **Advantages** | • Maximum performance <br> • Scalability <br> • Robust security | • Easy installation <br> • Better hardware compatibility <br> • Familiar interface |
+| **Disadvantages** | • Steeper learning curve <br> • Restricted hardware support | • Performance overhead <br> • Dependence on Host OS |
 
 To give some more details.
 
